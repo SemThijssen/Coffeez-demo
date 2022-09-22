@@ -1,7 +1,9 @@
 .navigation{
 width: 100vw;
-height: 80px;
+padding: 40px;
+background: #553939;
 }
 .navigation__logo{
-
+font-size: 100px;
+color:#FFF6BF;
 }
