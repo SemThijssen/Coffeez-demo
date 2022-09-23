@@ -1,11 +1,9 @@
-import Navigation from "./Navigation";
-import Header from "./Header";
-import"./App.css";
+import Homepage from "./pages/Homepage";
+import "./App.css";
 const App = () => {
     return(
-    <><Navigation/>
-        <Header bigTitle="coffeez" smallTitle="Coffee that will make you smile." />
-        </>
+    <><Homepage/>
+    </>
     );
     
 }
